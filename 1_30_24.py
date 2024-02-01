@@ -103,3 +103,5 @@ def find_it(seq):
 
 find_it([1,7,7,7,3,9,9,9,7,9,10,0])
 
+# https://stackoverflow.com/questions/2600191/how-do-i-count-the-occurrences-of-a-list-item/5829377#5829377
+
